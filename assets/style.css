@@ -1,0 +1,16 @@
+:root{
+    --theme:#2C3E50;
+    --light:#fff;
+}
+
+.bg-theme-color{
+    background-color: var(--theme);
+    color: var(--light) ;
+}
+body{
+    background-color: rgb(183, 183, 184);
+    
+}
+.bg-aqua{
+    background-color: rgb(80, 225, 225);
+}
